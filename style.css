@@ -27,6 +27,11 @@ position: fixed;
     box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.6), 0px 4px 12px rgba(0, 0, 0, 07);
     width: 20%;
     border-radius: 10px;
+    transition: 0.6s;
+ }
+ .imagini:hover{
+   opacity: 0.7;
+   transform: translateX(30px);
  }
 
  .sidenav {
