@@ -18,6 +18,9 @@
      color: blueviolet;
      background-color:transparent;
  }
+ #steam{
+   color: rgb(0, 0, 77);
+ }
  .title{
 position: fixed;
 	font: 50px Helvetica, Sans-Serif;
